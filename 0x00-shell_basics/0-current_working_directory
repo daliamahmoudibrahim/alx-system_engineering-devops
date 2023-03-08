@@ -1,1 +1,2 @@
-pwd
+#!/usr/bin/env python
+print(pwd)
